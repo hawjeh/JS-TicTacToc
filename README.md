@@ -2,4 +2,4 @@
 
 Simple Tic Tac Toc
 
-[a link](https://goo.gl/vDKh8p)
+[Link to Tic Tac Toc](https://goo.gl/vDKh8p)
